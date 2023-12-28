@@ -1,5 +1,4 @@
 ### Hi there 👋, My name is Dominiqua
-#### I am GitHub Readme Generator's creator
 
 Hi there 👋
 
