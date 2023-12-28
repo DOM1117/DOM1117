@@ -1,4 +1,5 @@
 Hi there 👋 
+
 - 👋 Hi, I’m Dominiqua, 
 - 👀 I’m interested in being a full stack engineer 
 - 🌱 I’m currently learning HTML, CSS, JavaScript, React, and Angular
