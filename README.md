@@ -1,5 +1,6 @@
 ### Hi there 👋, My name is Dominiqua
-https://new.express.adobe.com/id/urn:aaid:sc:VA6C2:5c4abbbc-3d0e-5122-97a9-42f647eba558?category=media&tab=photos
+![Untitled](https://github.com/DOM1117/DOM1117/assets/154283655/3f7cfa94-476d-431a-b12c-22d73ba9b354)
+
 Hi there 👋
 
 👋 Hi, I’m Dominiqua,
