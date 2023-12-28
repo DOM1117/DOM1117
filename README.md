@@ -1,8 +1,6 @@
-### Hi there 👋, My name is Dominiqua
+### Hi there 👋, 
 
-Hi there 👋
-
-👋 Hi, I’m Dominiqua,
+👋 I’m Dominiqua,
 👀 I’m interested in being a full stack engineer
 🌱 I’m currently learning HTML, CSS, JavaScript, React,  Python and C#
 💞️ I’m looking to collaborate on social media apps, food delivery app, E-commerce website, Chat messaging app, and a Gaming app.
