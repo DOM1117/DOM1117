@@ -1,6 +1,5 @@
 ### Hi there 👋, My name is Dominiqua
 #### I am GitHub Readme Generator's creator
-![I am GitHub Readme Generator's creator](https://new.express.adobe.com/published/urn:aaid:sc:VA6C2:e90f30d4-855d-4ae9-b385-1eb4edab64be?promoid=Y69SGM5H&mv=other)
 
 Hi there 👋
 
