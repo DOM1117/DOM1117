@@ -1,6 +1,4 @@
 ### Hi there 👋, My name is Dominiqua
-#### I am GitHub Readme Generator's creator
-![I am GitHub Readme Generator's creator](https://github.com/DOM1117/DOM1117/assets/154283655/3f7cfa94-476d-431a-b12c-22d73ba9b354)
 
 Hi there 👋
 
