@@ -1,5 +1,5 @@
 ### Hi there 👋, My name is Dominiqua
-https://github.com/DOM1117/DOM1117/assets/154283655/3f7cfa94-476d-431a-b12c-22d73ba9b354
+<https://github.com/DOM1117/DOM1117/assets/154283655/3f7cfa94-476d-431a-b12c-22d73ba9b354> 
 
 👀 I’m interested in being a full stack engineer
 🌱 I’m currently learning HTML, CSS, JavaScript, React,  Python and C#
