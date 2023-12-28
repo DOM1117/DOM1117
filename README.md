@@ -5,7 +5,7 @@ Hi there 👋
 
 👋 Hi, I’m Dominiqua,
 👀 I’m a full stack engineer
-🌱 II've gained a solid grasp of HTML, CSS, JavaScript, React, Python, and C# through past experiences, allowing me to confidently explore and create in these languages. Learning has been an exciting journey, and I look forward to continuing my growth in the world of coding.
+🌱 I've gained a solid grasp of HTML, CSS, JavaScript, React, Python, and C# through past experiences, allowing me to confidently explore and create in these languages. Learning has been an exciting journey, and I look forward to continuing my growth in the world of coding.
 💞️ I’m looking to collaborate on social media apps, food delivery app, E-commerce website, Chat messaging app, and a Gaming app.
 📫 How to reach me: twitter.com/DOMS1117
 
