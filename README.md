@@ -9,7 +9,7 @@ Hi there 👋
 💞️ I’m looking to collaborate on social media apps, food delivery app, E-commerce website, Chat messaging app, and a Gaming app.
 📫 How to reach me: twitter.com/DOMS1117
 
-Skills: JS / HTML / CSS/Python/C#
+Skills: JS / HTML / CSS/Python
 
 - 🔭 I’m currently working on this page. 
 
